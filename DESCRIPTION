@@ -1,0 +1,10 @@
+Package: FisheryOptimalDesign
+Type: Package
+Title: Optimal Sampling Design for Estimation of Total Fish Catch by Recreational Anglers
+Version: 0.1
+Date: 2020-01-23
+Author: Zhaoce Liu and Lynne Stokes
+Maintainer: Zhaoce Liu <Charlieliu004@gmail.com>
+Description: The package allows investigations on sample characteristics, effect of different sample sources, resources trade-off and optimal sampling design for the estimation of total fish catch by recreational anglers
+License: What license is it under?
+LazyData: TRUE
